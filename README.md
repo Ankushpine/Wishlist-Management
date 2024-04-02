@@ -1,5 +1,5 @@
 # Wishlist Management Backend
-Welcome to the Xindus Assignment repository! This backend application serves as the backend solution for managing wishlists in an e-commerce platform. The application is built using Spring Boot, Spring Security with JWT authentication, and Spring Data JPA.
+Welcome to the Wishlist Management Backend! This backend application serves as the backend solution for managing wishlists in an e-commerce platform. The application is built using Spring Boot, Spring Security with JWT authentication, and Spring Data JPA.
 
 ## Features
 - User Authentication: Secure signup and login functionality using Spring Security with JWT authentication.
@@ -12,15 +12,6 @@ Welcome to the Xindus Assignment repository! This backend application serves as 
 - Java Development Kit (JDK) version 8 or higher
 - Maven
  
-### Installation
-Step1:- Clone the repository to your local machine:
-- git clone https://github.com/moinkhan07/Xindus_Assignment.git
-
-Step2:- Navigate to the project directory:
-- cd XindusWishlistManagement
-
-Step3:- Build the project using Maven:
-- mvn clean install
 
 ### Configuration
 Step1:- Database Configuration:
@@ -66,6 +57,3 @@ Step2:- Spring Security Configuration:
    - Use the following endpoints for other API functionalities:
      - Wishlist Management: http://localhost:8080/api/wishlists
      - Products: http://localhost:8080/api/products
-
-
-Thank you for exploring the Xindus Assignment backend repository! We hope this documentation provides clear guidance on setting up, configuring, and using the application.
